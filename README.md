@@ -22,7 +22,7 @@ Panel Covers for those who dont want to run the filter: Work in progress
 
 
 # Special Thanks
-Thanks to @DoubleT for his Original TinyT filter design and doing all the work to adapt this filter for the Salad Fork 160 panels. 
+Thanks to DoubleT for his Original TinyT filter design and doing all the work to adapt this filter for the Salad Fork 160 panels. 
 Thanks to SpeedyV0 for creating the back panels to fit this filter. 
 
 # Kit Available here 
