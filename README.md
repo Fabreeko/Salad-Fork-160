@@ -8,7 +8,14 @@ Salad Fork Carbon air filter:<img width="857" alt="Screen_Shot_2022-10-01_at_3 3
 
 Salad Fork back Panel for Carbon filter:
 
-<img width="638" alt="Screen_Shot_2022-09-26_at_5 01 28_PM" src="https://user-images.githubusercontent.com/114843212/193591757-b0981011-20b8-4214-ba17-4ce537e1ffd2.png">
+![0383b96e-232a-4fbd-8445-e0025da1020d](https://user-images.githubusercontent.com/114843212/193593206-ab43127c-d2d5-46d2-bf10-b451a4aff044.jpg)
+
+
+
+Panel Covers for those who dont want to run the filter: Work in progress
+
+<img width="362" alt="Screen_Shot_2022-09-26_at_7 32 16_PM" src="https://user-images.githubusercontent.com/114843212/193593376-917bfb92-2f79-4fab-aab3-1f9a8d03661d.png">
+
 
 
 
