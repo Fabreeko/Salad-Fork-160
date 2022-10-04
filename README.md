@@ -2,11 +2,11 @@
 Main repository for files regarding the Fabreeko Salad Fork kit (160) 
 
 # Files:
-Salad Fork Carbon air filter <Work in progress>:<img width="857" alt="Screen_Shot_2022-10-01_at_3 38 15_PM" src="https://user-images.githubusercontent.com/114843212/193590586-e9d07136-be0f-4322-92da-a510aa142d9a.png">
+Salad Fork Carbon air filter Work in progress:<img width="857" alt="Screen_Shot_2022-10-01_at_3 38 15_PM" src="https://user-images.githubusercontent.com/114843212/193590586-e9d07136-be0f-4322-92da-a510aa142d9a.png">
 
 
 
-Salad Fork back Panel for Carbon filter: Work in progress
+Salad Fork back Panel for Carbon filter: 
 
 ![0383b96e-232a-4fbd-8445-e0025da1020d](https://user-images.githubusercontent.com/114843212/193593206-ab43127c-d2d5-46d2-bf10-b451a4aff044.jpg)
 
