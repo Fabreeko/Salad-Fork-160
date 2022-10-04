@@ -12,3 +12,6 @@ Parts needed:
 
 
 ![image](https://user-images.githubusercontent.com/8387530/193870388-2da4c288-11bf-4c48-81e1-70b0914549d8.png)
+
+![image](https://user-images.githubusercontent.com/8387530/193872041-f62f8e55-412d-4dee-b310-9757b83f913d.png)
+
